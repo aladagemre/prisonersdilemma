@@ -1,4 +1,4 @@
-package edu.boun.cmpe59.agent.intf;
+package tr.edu.boun.cmpe.cmpe59e.agent.intf;
 
 public interface AgentBase {
 
